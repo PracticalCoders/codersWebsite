@@ -1,0 +1,26 @@
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(../img/jumbotron-background.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+#projects {
+  margin-top: 2rem;
+}
+
+footer {
+  margin-bottom: 2rem;
+}
+
+#contact-image {
+  width: auto;
+  height: 6rem;
+}
+
+#footer-list {
+  padding-top: 16px;
+}
